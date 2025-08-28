@@ -14,7 +14,7 @@ image:
   caption: 'Photo: **Healthy Lifestyle**'
   focal_point: Smart
   preview_only: false
-  filename: healthy-lifestyle.jpg
+  filename: Healthy-Lifestyle.jpg
 ---
 
 # Healthy Lifestyle: Simple Steps to Improve Quality of Life

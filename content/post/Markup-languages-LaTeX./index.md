@@ -1,14 +1,23 @@
 ---
 title: "LaTeX: The Professional Typesetting System for Academic Excellence"
-date: 2025-08-28T10:00:00+03:00
-draft: false
-author: "Academic Researcher"
-tags: ["latex", "typesetting", "academic", "markup", "research"]
-categories: ["Technology", "Academic"]
-description: "Comprehensive guide to LaTeX - the powerful typesetting system for scientific and technical documentation"
+summary: "Comprehensive guide to LaTeX - the powerful typesetting system for scientific and technical documentation"
+date: 2025-08-28
+authors:
+  - Academic Researcher
+tags:
+  - LaTeX
+  - Typesetting
+  - Academic
+  - Research
+  - Markup
+image:
+  caption: 'Image: **LaTeX Document Example**'
+  focal_point: Smart
+  preview_only: false
+  filename: Latex.jpg
 ---
 
-![LaTeX Document Example](latex-document.jpg){width=100% class="latex-image shadow"}
+# LaTeX: The Professional Typesetting System for Academic Excellence
 
 ## What is LaTeX?
 

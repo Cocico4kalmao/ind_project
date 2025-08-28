@@ -12,7 +12,7 @@ image:
   caption: 'Git workflow diagram'
   focal_point: Smart
   preview_only: false
-  filename: git-practical.jpg
+  filename: git.jpg 
 ---
 
 After working with Git daily, I've learned what really matters. Here's the practical knowledge that saves time and prevents errors.

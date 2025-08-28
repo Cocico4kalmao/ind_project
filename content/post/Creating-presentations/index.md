@@ -14,7 +14,7 @@ image:
   caption: 'Image: **Professional Presentation Design**'
   focal_point: Smart
   preview_only: false
-  filename: presentation-design.jpg
+  filename: presentation.jpg
 ---
 
 # Creating Effective Presentations: A Comprehensive Guide

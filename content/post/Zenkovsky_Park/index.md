@@ -13,7 +13,7 @@ image:
   caption: 'Photo: **Personal Archive**'
   focal_point: Smart
   preview_only: false
-  filename: zenkov-park.jpg
+  filename: Zenkovsky_exit.jpg
 ---
 
 On August 22nd, I decided to spend some time outdoors and went to Zenkovsky Park. This place always attracts with its cozy atmosphere and green alleys.
