@@ -11,31 +11,36 @@ tags:
 categories:
   - Projects
 description: "Personal portfolio website project built with Hugo"
+image:
+  caption: 'Image: **Site Project**'
+  focal_point: Smart
+  preview_only: false
+  filename: site-project.jpg
 ---
 
-![Site Project](site-project.jpg){width=100% class="project-image shadow"}
-
-## Personal Portfolio Website
+# Personal Portfolio Website
 
 This project represents my personal portfolio website built using Hugo static site generator. The site showcases my projects, skills, and experience in a clean, professional manner.
 
-### Technical Stack:
+## Technical Stack:
 - **Framework**: Hugo static site generator
 - **Theme**: Custom or modified theme
 - **Deployment**: GitHub Pages
 - **Features**: Responsive design, project showcase, blog section
 
-### Website Features:
+## Website Features:
 - Project portfolio display
 - Blog content management
 - Responsive mobile-friendly design
 - Fast loading static content
 - Easy content updates via Markdown
 
-### Development Highlights:
+## Development Highlights:
 - Custom Hugo configuration
 - Markdown-based content management
 - GitHub integration for version control
 - Automated deployment pipeline
+
+
 
 
